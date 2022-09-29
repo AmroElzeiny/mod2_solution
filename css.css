@@ -1,0 +1,17 @@
+header{
+  background-color: grey;
+}
+.right{
+  background-color: grey;
+}
+h2{
+  color: blue;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+a{
+  background-color: #EEE;
+  color: aqua;
+}
